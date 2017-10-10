@@ -1,0 +1,2 @@
+# ghostcode
+beginners code
